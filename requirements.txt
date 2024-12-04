@@ -1,0 +1,9 @@
+accelerate
+bitsandbytes
+timm
+einops
+torch
+torchvision
+Pillow
+transformers
+peft
